@@ -15,7 +15,7 @@ Create the classic Snakes Game! This project will help you learn about arrays, l
 
 ---
 
-### 2. [Cash Flow Minimizer (Graphs/Multisets/Heaps)](https://github.com/UTSAVS26/DSA_Projects/tree/main/CashFlowMinimizer) 🚧
+### 2. [Cash Flow Minimizer (Graphs/Multisets/Heaps)](https://github.com/UTSAVS26/DSA_Projects/tree/main/CashFlowMinimizer) 🔗
 Optimize cash flow among a group of people with this project. Use graphs, multisets, and heaps to minimize the total number of transactions needed to settle all debts.
 
 **Concepts Covered:**
